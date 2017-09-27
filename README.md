@@ -7,5 +7,5 @@ The data center organization and administration need to be looked at.
 
 
 
-A standard data center audit program can be found on this website - www.oxleyconsults.com.ng (www.http://oxleyconsults.com.ng/audit/audit-programmes/Data%20centre/
+A standard data center audit program can be found on this website - www.oxleyconsults.com.ng (http://oxleyconsults.com.ng/audit/audit-programmes/Data%20centre/
 The resource here is complete and detailed enough
